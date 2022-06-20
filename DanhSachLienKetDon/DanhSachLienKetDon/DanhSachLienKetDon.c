@@ -1,4 +1,4 @@
-// DanhSachLienKetDon.cpp 
+// DanhSachLienKetDon.c
 
 #include <stdio.h>
 
